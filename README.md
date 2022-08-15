@@ -1,1 +1,1 @@
-# logs-app
+# Docker demo
